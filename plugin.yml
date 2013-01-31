@@ -1,0 +1,9 @@
+name: MSTR_MultiWorld
+load: STARTUP
+main: ca.strendin.MSTR_MultiWorld.MSTR_MultiWorld
+version: 1.0
+description: Multi-world support
+author: Mark Strendin
+commands:
+  mw:
+    description: Create, remove, and manage worlds
