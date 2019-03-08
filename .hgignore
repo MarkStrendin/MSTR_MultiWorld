@@ -1,9 +1,0 @@
-syntax: glob
-*.class
-bin/*
-out/*
-.idea/*
-src/META-INF/*
-*.iml
-*.ipr
-*.iws
